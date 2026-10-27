@@ -1,0 +1,20 @@
+# Rascunhos da inscrição
+inscricao/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Dados locais
+data/raw/
+*.sqlite
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
